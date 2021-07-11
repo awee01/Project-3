@@ -11,5 +11,5 @@ screenshot: ![screenshot](https://user-images.githubusercontent.com/85651950/125
 
 github url: https://github.com/awee01/Project-3
 
-live url: 
+live url: https://awee01.github.io/Project-3/
 
