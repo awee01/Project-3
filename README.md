@@ -7,7 +7,7 @@ The application then asks the user if their password generated will include one 
 
 Any invalid input will display a prompt and require the user to try again by clicking generate and entering in a correct input.
 
-screenshot: ![screenshot](https://user-images.githubusercontent.com/85651950/125212469-9f83c580-e27b-11eb-8abd-68bfce8fd328.jpg)
+screenshot: !(assets/images/screenshot.jpg "Screenshot")
 
 github url: https://github.com/awee01/Project-3
 
