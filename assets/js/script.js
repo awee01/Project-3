@@ -142,6 +142,6 @@ function writePassword() {
   document.getElementById("password").innerHTML = password;
   console.log(password);
 
-  alert("Your password has been randomly generated to your specifics. Click ok to see your password. You can continue making new passwords by clicking generate again.");
+  window.alert("Your password has been randomly generated to your specifics. Click ok to see your password. You can continue making new passwords by clicking generate again.");
 
 }
